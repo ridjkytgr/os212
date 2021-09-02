@@ -6,3 +6,4 @@ ZCZC W00 100 L02 OS ZOOM meetings related
 ZCZC W00 45 L05 Prepare for Week 00 Quiz
 ZCZC W00 90 L80 Watch Youtube videos
 ZCZC W00 150 L70 Solve SDA's lab, Alin's forums, MPPI's forum, and SDA's checkpoint
+ZCZC W00 30 L15 Do some reading assignments
