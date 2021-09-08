@@ -11,3 +11,7 @@ ZCZC W00 5 L11 Create public repo
 ZCZC W00 5 L12 Create some logs
 ZCZC WOO 5 L13 Create github page
 ZCZC W00 3 L14 Register to OS course
+ZCZC W01 100 L02 OS Zoom Meeting related
+ZCZC W01 90 L06 Read a lot of materials from Google about Debian and Virtual box
+ZCZC W01 120 L01 Discuss about W01 assignments with my peer group
+ZCZC W01 150 L70 Study for SDA's checkpoint, Alin's and MPPI'S pre-course materials
