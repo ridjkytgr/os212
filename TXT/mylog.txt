@@ -15,3 +15,7 @@ ZCZC W01 100 L02 OS Zoom Meeting related
 ZCZC W01 90 L06 Read a lot of materials from Google about Debian and Virtual box
 ZCZC W01 120 L01 Discuss about W01 assignments with my peer group
 ZCZC W01 150 L70 Study for SDA's checkpoint, Alin's and MPPI'S pre-course materials
+ZCZC W01 30 L11 Download virtual box, PUTTY, WINSCP and do some basic setups
+ZCZC W01 45 L12 Import pre-installed OVA file and try to run the VirtualBox Debian Guest
+ZCZC W01 45 L13 Do reading assignments and try some basic CLI commands
+ZCZC W01 45 L14 Dress up my Virtual Guest
