@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](/LINKS/) | [Github Repository](https://github.com/ridjkytgr/os212)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/ridjkytgr/os212)
 
 # Hello, World!
 
