@@ -21,3 +21,4 @@ ZCZC W01 45 L13 Do reading assignments and try some basic CLI commands
 ZCZC W01 45 L14 Dress up my Virtual Guest
 ZCZC W01 40 L15 Do some SSH related assignments
 ZCZC W01 25 L16 Edit index.md and add 1 links.md, and also add and additional links
+ZCZC W01 20 L17 Note all of my activites to the log file
