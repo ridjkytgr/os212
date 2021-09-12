@@ -7,17 +7,17 @@ ZCZC W00 45 L05 Prepare for Week 00 Quiz
 ZCZC W00 90 L80 Watch Youtube videos
 ZCZC W00 150 L70 Solve SDA's lab, Alin's forums, MPPI's forum, and SDA's checkpoint
 ZCZC W00 30 L15 Do some reading assignments
-ZCZC W00 5 L10 Create public repo
-ZCZC W00 5 L10 Create some logs
-ZCZC W00 5 L10 Create github page
-ZCZC W00 3 L10 Register to OS course
+ZCZC W00 5 L11 Create public repo
+ZCZC W00 5 L12 Create some logs
+ZCZC W00 5 L13 Create github page
+ZCZC W00 3 L14 Register to OS course
 ZCZC W01 100 L02 OS Zoom Meeting related
 ZCZC W01 90 L06 Read a lot of materials from Google about Debian and Virtual box
 ZCZC W01 120 L01 Discuss about W01 assignments with my peer group
 ZCZC W01 150 L70 Study for SDA's checkpoint, Alin's and MPPI'S pre-course materials
 ZCZC W01 30 L11 Download virtual box, PUTTY, WINSCP and do some basic setups
-ZCZC W01 45 L11 Import pre-installed OVA file and try to run the VirtualBox Debian Guest
-ZCZC W01 45 L11 Do reading assignments and try some basic CLI commands
-ZCZC W01 45 L11 Dress up my Virtual Guest
-ZCZC W01 40 L11 Do some SSH related assignments
-ZCZC W01 25 L11 Edit index.md and add 1 links.md, and also add and additional links
+ZCZC W01 45 L12 Import pre-installed OVA file and try to run the VirtualBox Debian Guest
+ZCZC W01 45 L13 Do reading assignments and try some basic CLI commands
+ZCZC W01 45 L14 Dress up my Virtual Guest
+ZCZC W01 40 L15 Do some SSH related assignments
+ZCZC W01 25 L16 Edit index.md and add 1 links.md, and also add and additional links
