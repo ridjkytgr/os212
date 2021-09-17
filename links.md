@@ -26,6 +26,6 @@ This playlist also created and provided by Neso Academy. It consists of 169 vide
 Creating SHA-256 is a mandatory task on Week 2 of our OS journey. This quora discussion explains it with simple terms and that's why i put it on my favorite links.
  
 ### [Cybersecurity Course](https://www.codecademy.com/learn/introduction-to-cybersecurity)
-Cybersecurity plays a very vital role on our society. It secures all of the sensitive informations online from future potential hacker./
+Cybersecurity plays a very vital role on our society. It secures all of the sensitive informations online from future potential hacker.\
 As the reason why i recommend this certain course is because it was made by Codecademy, one of my favorite online course out there.
 
