@@ -27,3 +27,7 @@ ZCZC W02 120 L09 Do Week 2's assignments in general
 ZCZC W02 60 L26 Read C-language related materials
 ZCZC W02 20 L22 OS Quiz
 ZCZC W02 120 L70 Study PBP, do its assignment and teach it to some friends 
+ZCZC W03 120 L09 Finish W3 assignemnts, including reading assignments
+ZCZC W03 100 L02 Attend weekly OS class via Zoom Meeting
+ZCZC W03 20 L22 Do OS Quiz
+ZCZC W03 300 L09 Work on SDA's Programming Assignment
