@@ -31,9 +31,9 @@ As the reason why i recommend this certain course is because it was made by Code
 
 ## Week 03
 
-### [Intro to Files & File Systems by Crash Course] (https://youtu.be/KN8YgJnShPM)
+### [Intro to Files & File Systems by Crash Course](https://youtu.be/KN8YgJnShPM)
 This video talks mainly about how some popular file formats, such as txt, wave, and bitmap are encoded and decoded, and also how computers are able to keep all the datas organized and accesible to users.\
 Crash Course has its own unique style and animations, they make all of these science videos more bearable to watch. That's why i put this link on here.
 
-### [File System in Operating System] (https://www.guru99.com/file-systems-operating-system.html#2)
+### [File System in Operating System](https://www.guru99.com/file-systems-operating-system.html#2)
 This article covers a lot of the topics that are mentioned on the Week 3 PPT. The brief explanation that this article provided and the way the author explains it in a layman term really helps me to understand this topic way better than before.
