@@ -37,3 +37,11 @@ Crash Course has its own unique style and animations, they make all of these sci
 
 ### [File System in Operating System](https://www.guru99.com/file-systems-operating-system.html#2)
 This article covers a lot of the topics that are mentioned on the Week 3 PPT. The brief explanation that this article provided and the way the author explains it in a layman term really helps me to understand this topic way better than before.
+
+## Week 04
+
+### [Pointers in C Programming](https://www.guru99.com/c-pointers.html)
+Execution time of a program is very crucial and every engineers are looking for every possible ways to optimize it. Pointer is one of the solution.
+
+### [Logical Address vs Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+This article gives a brief explanation and compares a lot of different aspects of logical address and physical address on Operating System.
