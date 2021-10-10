@@ -45,3 +45,12 @@ Execution time of a program is very crucial and every engineers are looking for 
 
 ### [Logical Address vs Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
 This article gives a brief explanation and compares a lot of different aspects of logical address and physical address on Operating System.
+
+## Week 05
+
+### [Virtual Memory In a Nutshell](https://www.guru99.com/virtual-memory-in-operating-system.html)
+Guru99 is my best stop to learn about OS in a great manner. This article really helps me to learn about virtual memory from scratch. Starting from its definition, to its disadvantages.
+
+### [Kernel](https://www.baeldung.com/cs/os-kernel)
+One of the most important concept of OS Programming is the Kernel. The term Kernel really does intrigue me in some ways. It gives some unpleasant vibes and i always feel that Kernel is a hard concept to learn. But, this article can describe Kernel in such an easy manner.
+ 
