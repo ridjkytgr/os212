@@ -42,3 +42,8 @@ ZCZC W05 75 L09 Finish W5 assignments
 ZCZC W05 200 L01 Discord related
 ZCZC W05 25 L01 Answering Forum
 ZCZC W05 200 L32 Study, listening to musics, etc
+ZCZC W06 100 L02 OS ZOOM meetings related
+ZCZC W06 120 L09 Assignment in general
+ZCZC W06 30 L03 Fix git corrupt
+ZCZC W06 20 L22 Quiz related
+ZCZC W06 120 L32 YouTube: Studying, etc
