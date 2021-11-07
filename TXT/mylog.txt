@@ -47,3 +47,9 @@ ZCZC W06 120 L09 Assignment in general
 ZCZC W06 30 L03 Fix git corrupt
 ZCZC W06 20 L22 Quiz related
 ZCZC W06 120 L32 YouTube: Studying, etc
+ZCZC W07 100 L02 OS ZOOM meetings related
+ZCZC W07 80 L03 Configuring GitHub repo
+ZCZC W07 20 L22 Quiz related
+ZCZC W07 120 L09 OS Assignment in general
+ZCZC W07 60 L06 Read W07 related topics material
+ZCZC W07 240 L32 Listening to music as my background music 
