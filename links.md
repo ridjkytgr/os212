@@ -70,3 +70,10 @@ Deadlock is a situation that occurs in OS when any process enters a waiting stat
 ### [Synchronization, Critical Section and Semaphore](https://www.guru99.com/process-synchronization.html)
 Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources. A critical section is a segment of code which can be accessed by a signal process at a specific point of time. The solution to Critical Section problem is called Semaphore Solution. Semaphore is simply a variable that is non-negative and shared between threads.
 
+## Week 08
+
+### [Guide to LFS by Sudo Tech](https://youtu.be/8WsDcW5SQ9Y)
+LFS is an abbreviation of Linux From Scratch. Its name on itself is already self explanatory, although all of the process behind the scene really aren't that simple. This playlist from Sudo Tech serves as the guide to create your own custom Linux OS.
+
+### [LFS Official Site](https://www.linuxfromscratch.org/lfs/)
+Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.

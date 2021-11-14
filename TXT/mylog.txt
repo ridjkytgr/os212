@@ -53,3 +53,9 @@ ZCZC W07 20 L22 Quiz related
 ZCZC W07 120 L09 OS Assignment in general
 ZCZC W07 60 L06 Read W07 related topics material
 ZCZC W07 240 L32 Listening to music as my background music 
+ZCZC W08 600 L09 OS Assignment in general
+ZCZC W08 20 L22 Quiz related
+ZCZC W08 100 L02 OS ZOOM meetings related
+ZCZC W08 240 L32 Listen to music
+ZCZC W08 80 L06 Read W08 related topics material
+ZCZC W08 15 L03 Configure GitHub repository
