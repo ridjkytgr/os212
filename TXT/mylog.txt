@@ -59,3 +59,8 @@ ZCZC W08 100 L02 OS ZOOM meetings related
 ZCZC W08 240 L32 Listen to music
 ZCZC W08 80 L06 Read W08 related topics material
 ZCZC W08 15 L03 Configure GitHub repository
+ZCZC W09 420 L09 OS Assignment in general
+ZCZC W09 20 L22 Quiz related
+ZCZC W09 100 L02 OS ZOOM meetings related
+ZCZC W09 240 L32 Youtube: Listening to music
+ZCZC W09 60 L06 Read W09 related topics material

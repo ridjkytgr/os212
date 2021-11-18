@@ -77,3 +77,14 @@ LFS is an abbreviation of Linux From Scratch. Its name on itself is already self
 
 ### [LFS Official Site](https://www.linuxfromscratch.org/lfs/)
 Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source.
+
+## Week 09
+
+### [RAID, a definition by GFG](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)
+RAID, or “Redundant Arrays of Independent Disks” is a technique which makes use of a combination of multiple disks instead of using a single disk for increased performance, data redundancy or both.
+
+### [Firmware vs OS, a brief comparison](https://ipwithease.com/firmware-vs-operating-system-sneak-preview/)
+Computer systems are used to automate tasks and execute user programs. Many application programs and hardware combined to perform functions. Firmware is a specific type of software which is embedded with hardware and directly access hardware and its resources without using APIs , Operating system to perform basic tasks and functions.
+
+### [Intro to Bootloader](https://www.makeuseof.com/what-is-a-bootloader/)
+When turned on, a computer has a clear state. This means that there are no programs in its memory and that its components cannot be accessed. A bootloader helps to load the operating system or runtime environment to add programs to memory and provide access for components.
